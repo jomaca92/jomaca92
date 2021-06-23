@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a full stack developer currently working at a legal tech startup building a better solution for client intake. I enjoy building side projects, good coffee, and gaming.
+My name is Jonah. I'm a full stack web developer currently working at a legal tech startup building a better solution for client intake. I enjoy building side projects, good coffee, and gaming.
 <!--
 **jomaca92/jomaca92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
